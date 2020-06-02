@@ -1,0 +1,7 @@
+C:\Users\Gustavo\Desktop\TPA\ExerciciosEstruturaCondicional\Exercicio14\bin\Debug\Exercicio14.exe.config
+C:\Users\Gustavo\Desktop\TPA\ExerciciosEstruturaCondicional\Exercicio14\bin\Debug\Exercicio14.exe
+C:\Users\Gustavo\Desktop\TPA\ExerciciosEstruturaCondicional\Exercicio14\bin\Debug\Exercicio14.pdb
+C:\Users\Gustavo\Desktop\TPA\ExerciciosEstruturaCondicional\Exercicio14\obj\Debug\Exercicio14.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\TPA\ExerciciosEstruturaCondicional\Exercicio14\obj\Debug\Exercicio14.exe
+C:\Users\Gustavo\Desktop\TPA\ExerciciosEstruturaCondicional\Exercicio14\obj\Debug\Exercicio14.pdb
+C:\Users\Gustavo\Desktop\TPA\ExerciciosEstruturaCondicional\Exercicio14\obj\Debug\Exercicio14.csprojAssemblyReference.cache
