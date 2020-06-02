@@ -10,12 +10,13 @@ namespace Exercicio1 {
             Console.Write("Escreva dois valores: ");
             int num = int.Parse(Console.ReadLine());
             int num2 = int.Parse(Console.ReadLine());
+            // Hello Github
 
             if (num != num2) {
                 if (num > num2)
-                    Console.WriteLine("O maior deles é {0}", num);
+                    Console.WriteLine("O maior desses números é {0}", num);
                 else
-                    Console.WriteLine("O maior deles é {0}", num2);
+                    Console.WriteLine("O maior desses números é {0}", num2);
             }
         }
     }
