@@ -24,6 +24,7 @@ namespace Exercicio10 {
                 calculo = num * valor;
 
             Console.WriteLine("O seu salário total é de R${0}", calculo);
+            Console.ReadKey();
         }
     }
 }
