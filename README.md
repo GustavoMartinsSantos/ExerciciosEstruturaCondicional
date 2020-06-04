@@ -1,2 +1,2 @@
 # ExerciciosEstruturaCondicional
-Some exercises from school. 
+Some exercises from high school. 
